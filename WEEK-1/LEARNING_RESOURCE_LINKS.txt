@@ -1,0 +1,27 @@
+
+SDLC LINK - https://www.geeksforgeeks.org/software-engineering/software-development-life-cycle-sdlc/
+
+AGILE LINK - https://www.geeksforgeeks.org/software-engineering/software-engineering-agile-development-models/
+
+Software Quality Assurance - Software Engineering - https://www.geeksforgeeks.org/software-testing/software-engineering-software-quality-assurance/
+
+
+System Integration (Software) Testing (SIT) - https://www.geeksforgeeks.org/software-engineering/system-integration-software-testing-sit/
+
+
+Agile Project Management vs Waterfall Project Management  - https://www.geeksforgeeks.org/software-engineering/agile-vs-waterfall/
+
+User Acceptance Testing - https://www.geeksforgeeks.org/software-testing/user-acceptance-testing-uat/
+
+Kanban - https://www.geeksforgeeks.org/software-engineering/kanban-agile-methodology/
+
+
+TO KNOW ABOUT THE JIRA SOFTWARE :
+
+
+GFG LINK : https://www.geeksforgeeks.org/software-engineering/what-is-jira-software/
+
+YOUTUBE VIDEO LINK  :  https://youtu.be/sA9DWbJk3vg?si=53v_e4Wy7tepU_rY
+
+PRACTICAL IMLPEMENTATION : https://www.atlassian.com/software/jira
+
