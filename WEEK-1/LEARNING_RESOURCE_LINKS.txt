@@ -25,3 +25,9 @@ YOUTUBE VIDEO LINK  :  https://youtu.be/sA9DWbJk3vg?si=53v_e4Wy7tepU_rY
 
 PRACTICAL IMLPEMENTATION : https://www.atlassian.com/software/jira
 
+Design Patterns in java - https://youtu.be/tDxnyop48mY?si=inlaiiLAJmI2KGMt 
+
+UML classes - https://youtu.be/WnMQ8HlmeXc?si=D1d4d4AZuonAzLZC
+ 
+UML Representation - draw.io
+
