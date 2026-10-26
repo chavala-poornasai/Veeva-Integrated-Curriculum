@@ -1,0 +1,1282 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+PS C:\Users\POORNA SAI\Desktop\Veeva systems\WEEK-1\CASE STUDY\KartCity> java -cp target\classes com.ecommerce.Main
+
+KartCity Store
+1. Customer Menu
+2. Product Menu
+3. Cart Menu
+4. Order Menu
+5. Admin Menu
+0. Exit
+Choose an option: 1
+
+Customer Menu
+1. Register
+2. Log in
+3. View my profile
+4. Update my details
+5. Delete my account
+6. Log out
+7. Manage subscriptions
+0. Return
+Choose an option: 1
+Full name: Poornasai
+Email: chpoornasai@gmail.com
+Password (at least 8 characters): papapapa
+Phone number: 9032008280
+Street: bhagyalakshmipeta
+City: tadepalligudem
+State: AndhraPradesh
+Postal code: 534102
+Account created. Your customer ID is 7b944fb0-0326-459c-b252-58daf258967f
+Log in to access your cart and orders.
+
+Customer Menu
+1. Register
+2. Log in
+3. View my profile
+4. Update my details
+5. Delete my account
+6. Log out
+7. Manage subscriptions
+0. Return
+Choose an option: 2
+Email: chpoornasai@gmail.com
+Password: papapapa
+Welcome, Poornasai.
+
+Customer Menu - Poornasai
+1. Register
+2. Log in
+3. View my profile
+4. Update my details
+5. Delete my account
+6. Log out
+7. Manage subscriptions
+0. Return
+Choose an option: 3
+Customer ID: 7b944fb0-0326-459c-b252-58daf258967f
+Name: Poornasai
+Email: chpoornasai@gmail.com
+Phone: 9032008280
+Address: bhagyalakshmipeta, tadepalligudem, AndhraPradesh, 534102
+
+Customer Menu - Poornasai
+1. Register
+2. Log in
+3. View my profile
+4. Update my details
+5. Delete my account
+6. Log out
+7. Manage subscriptions
+0. Return
+Choose an option: 4
+New name (blank to keep current): poorna sai
+New email (blank to keep current):
+New phone (blank to keep current):
+Update address? (y/n): n
+Change password? (y/n): n
+Account updated.
+
+Customer Menu - poorna sai
+1. Register
+2. Log in
+3. View my profile
+4. Update my details
+5. Delete my account
+6. Log out
+7. Manage subscriptions
+0. Return
+Choose an option: 7
+MONTHLY - 1 months - INR 299.00
+QUARTERLY - 3 months - INR 799.00
+HALF_YEARLY - 6 months - INR 1499.00
+YEARLY - 12 months - INR 2499.00
+Plan name to purchase (or blank to return): MONTHLY
+Subscription payment: 1. UPI  2. Debit card  3. Credit card
+Choose: 3
+Simulate payment success? (y/n): y
+Subscription active until 2026-11-26. Eligible orders receive free shipping.
+
+Customer Menu - poorna sai
+1. Register
+2. Log in
+3. View my profile
+4. Update my details
+5. Delete my account
+6. Log out
+7. Manage subscriptions
+0. Return
+Choose an option: 0
+
+KartCity Store
+1. Customer Menu
+2. Product Menu
+3. Cart Menu
+4. Order Menu
+5. Admin Menu
+0. Exit
+Choose an option: 2
+
+Product Catalog
+1. View all products
+2. Search by product ID
+3. Search by name
+4. Search by name and exact price
+5. Search by name and price range
+6. Search by name and company
+7. Search by name, company, and exact price
+0. Return
+Choose an option: 1
+P203 | Dell Laptop | Dell | INR 55000.00 | Stock: 5
+P202 | Samsung AC | Samsung | INR 40000.00 | Stock: 8
+P205 | Samsung Mobile | Samsung | INR 25000.00 | Stock: 12
+P204 | HP Laptop | HP | INR 48000.00 | Stock: 7
+P201 | LG AC | LG | INR 35000.00 | Stock: 10
+
+Product Catalog
+1. View all products
+2. Search by product ID
+3. Search by name
+4. Search by name and exact price
+5. Search by name and price range
+6. Search by name and company
+7. Search by name, company, and exact price
+0. Return
+Choose an option: 0
+
+KartCity Store
+1. Customer Menu
+2. Product Menu
+3. Cart Menu
+4. Order Menu
+5. Admin Menu
+0. Exit
+Choose an option: 3
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 1
+Product ID: 101
+Product not found with id: 101
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 1
+Product ID: 1
+Product not found with id: 1
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 1
+Product ID: p201
+Product not found with id: p201
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 2
+Your cart is empty.
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 3
+Product ID: 201
+New quantity: LUNCH BOX
+For input string: "LUNCH BOX"
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 2
+Your cart is empty.
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 4
+Product ID: 201
+Product removed from cart.
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 4
+Product ID: 202
+Product removed from cart.
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 5
+Subtotal: INR 0
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 6
+Cart cleared.
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 0
+
+KartCity Store
+1. Customer Menu
+2. Product Menu
+3. Cart Menu
+4. Order Menu
+5. Admin Menu
+0. Exit
+Choose an option: 4
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 1
+Your cart is empty.
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 2
+You have no orders.
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 3
+Order ID: 201
+Order not found: 201
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 4
+Order ID: 201
+Order not found: 201
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 5
+Order ID: 201
+Order not found: 201
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 6
+Order ID: p202
+Order not found: p202
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 0
+
+KartCity Store
+1. Customer Menu
+2. Product Menu
+3. Cart Menu
+4. Order Menu
+5. Admin Menu
+0. Exit
+Choose an option: 5
+Demo admin password: admin1234
+Admin authenticated. This demo password is not production-grade security.
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 1
+Name: LUNCH BOX
+Company: tupperware
+Description: STRONG
+Price: 1500
+Stock: 10
+Product added with ID 2663689a-6575-413d-bd4a-0ae51b008a8e
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 2
+P203 | Dell Laptop | Dell | INR 55000.00 | Stock: 5
+P202 | Samsung AC | Samsung | INR 40000.00 | Stock: 8
+P205 | Samsung Mobile | Samsung | INR 25000.00 | Stock: 12
+2663689a-6575-413d-bd4a-0ae51b008a8e | LUNCH BOX | tupperware | INR 1500 | Stock: 10
+P204 | HP Laptop | HP | INR 48000.00 | Stock: 7
+P201 | LG AC | LG | INR 35000.00 | Stock: 10
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 3
+Product name: p201
+No products found.
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 3
+Product name: P201
+No products found.
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: Samsung Mobile
+Please enter a numeric menu choice.
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 3
+Product name: Samsung Mobile
+P205 | Samsung Mobile | Samsung | INR 25000.00 | Stock: 12
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 4
+Product ID: p201
+Product not found with id: p201
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 4
+Product ID: P201
+Name [LG AC]: LG AC WITH 5 STAR
+Company [LG]:
+Description [1.5 ton inverter air conditioner]:
+Price [35000.00]: 43000
+Stock [10]: 9
+Product updated. Existing orders retain their purchase-time item details.
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 5
+Product ID: P2012
+Product not found with id: P2012
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 5
+Product ID: 2663689a-6575-413d-bd4a-0ae51b008a8e
+Product deleted from the active catalog.
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 2
+P203 | Dell Laptop | Dell | INR 55000.00 | Stock: 5
+P202 | Samsung AC | Samsung | INR 40000.00 | Stock: 8
+P205 | Samsung Mobile | Samsung | INR 25000.00 | Stock: 12
+P204 | HP Laptop | HP | INR 48000.00 | Stock: 7
+P201 | LG AC WITH 5 STAR | LG | INR 43000 | Stock: 9
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 6
+Search by name (blank lists all): poorna sai
+7b944fb0-0326-459c-b252-58daf258967f | poorna sai | chpoornasai@gmail.com
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 7
+No orders found.
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 8
+Order ID: 201
+Allowed statuses: [PLACED, DISPATCHED, IN_TRANSIT, DELIVERED, RETURN_REQUESTED, RETURNED, CANCELLED]
+Next status:
+No enum constant com.ecommerce.enums.OrderStatus.
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 9
+Order ID: 201
+Courier name: venkat sie
+Tracking number: 11
+Order not found: 201
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 10
+Unique code: veeva@11
+Balance: 2000
+Expiry date (YYYY-MM-DD): 2026-12-30
+Gift card created.
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 11
+Unique coupon code: veeva@123
+Discount type (1 = percentage, 2 = fixed amount): 1
+Percentage discount (0-100): 11
+Minimum delivered orders: 3
+Minimum eligible spend: 10000
+Expiry date (YYYY-MM-DD): 2026-11-17
+Redemption limit (0 = unlimited): 5
+Maximum discount (blank for no cap): 100000
+Coupon created.
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 12
+ecff1050-8d60-450a-bd70-e4c83689ade5 | Customer: 7b944fb0-0326-459c-b252-58daf258967f | MONTHLY | Expires: 2026-11-26
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 13
+Admin logged out.
+
+KartCity Store
+1. Customer Menu
+2. Product Menu
+3. Cart Menu
+4. Order Menu
+5. Admin Menu
+0. Exit
+Choose an option: 3
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 1
+Product ID: P201
+Quantity: 2
+Added to cart. Subtotal: INR 86000
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 2
+P201 | LG AC WITH 5 STAR | Qty: 2 | Unit: INR 43000 | Total: INR 86000
+Subtotal: INR 86000
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 3
+Product ID: P201
+New quantity: 3
+Quantity updated.
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 2
+P201 | LG AC WITH 5 STAR | Qty: 3 | Unit: INR 43000 | Total: INR 129000
+Subtotal: INR 129000
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 5
+Subtotal: INR 129000
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 6
+Cart cleared.
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 2
+Your cart is empty.
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 0
+
+KartCity Store
+1. Customer Menu
+2. Product Menu
+3. Cart Menu
+4. Order Menu
+5. Admin Menu
+0. Exit
+Choose an option: 3
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 1
+Product ID: P201
+Quantity: 2
+Added to cart. Subtotal: INR 86000
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 1
+Product ID: P202
+Quantity: 3
+Added to cart. Subtotal: INR 206000.00
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 2
+P202 | Samsung AC | Qty: 3 | Unit: INR 40000.00 | Total: INR 120000.00
+P201 | LG AC WITH 5 STAR | Qty: 2 | Unit: INR 43000 | Total: INR 86000
+Subtotal: INR 206000.00
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 0
+
+KartCity Store
+1. Customer Menu
+2. Product Menu
+3. Cart Menu
+4. Order Menu
+5. Admin Menu
+0. Exit
+Choose an option: 5
+Demo admin password: admin1234
+Admin authenticated. This demo password is not production-grade security.
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 6
+Search by name (blank lists all): poorna sai
+7b944fb0-0326-459c-b252-58daf258967f | poorna sai | chpoornasai@gmail.com
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 7
+No orders found.
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 0
+
+KartCity Store
+1. Customer Menu
+2. Product Menu
+3. Cart Menu
+4. Order Menu
+5. Admin Menu
+0. Exit
+Choose an option: 3
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 2
+P202 | Samsung AC | Qty: 3 | Unit: INR 40000.00 | Total: INR 120000.00
+P201 | LG AC WITH 5 STAR | Qty: 2 | Unit: INR 43000 | Total: INR 86000
+Subtotal: INR 206000.00
+
+Cart Menu
+1. Add a product
+2. View cart
+3. Update quantity
+4. Remove a product
+5. View subtotal
+6. Clear cart
+0. Return
+Choose an option: 0
+
+KartCity Store
+1. Customer Menu
+2. Product Menu
+3. Cart Menu
+4. Order Menu
+5. Admin Menu
+0. Exit
+Choose an option: 4
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 1
+Payment method: 1. UPI  2. Debit card  3. Credit card  4. Cash on delivery
+Choose: 2
+Simulate online payment success? (y/n): y
+Coupon code (blank for none): veeva@11
+Gift card code (blank for none): veeva@11
+Coupon not found
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 4
+Order ID: 201
+Order not found: 201
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 1
+Payment method: 1. UPI  2. Debit card  3. Credit card  4. Cash on delivery
+Choose: 2
+Simulate online payment success? (y/n): y
+Coupon code (blank for none): veeva@11
+Gift card code (blank for none): veeva@123
+Coupon not found
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 1
+Payment method: 1. UPI  2. Debit card  3. Credit card  4. Cash on delivery
+Choose: 2
+Simulate online payment success? (y/n): y
+Coupon code (blank for none): veeeva@123
+Gift card code (blank for none): veeva@11
+Coupon not found
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 1
+Payment method: 1. UPI  2. Debit card  3. Credit card  4. Cash on delivery
+Choose: 2
+Simulate online payment success? (y/n): y
+Coupon code (blank for none):
+Gift card code (blank for none): veeva@11
+Order placed: 3c30d755-8d5a-4e7b-b580-ae1d9788df1e
+Subtotal: INR 206000.00 | Shipping: INR 0 | Discount: INR 0 | Total: INR 206000.00
+Gift card applied: INR 2000
+Payment status: SUCCESS
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 2
+3c30d755-8d5a-4e7b-b580-ae1d9788df1e | PLACED | INR 206000.00 | 2026-10-26T12:58:57.358551100
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 3
+Order ID: 3c30d755-8d5a-4e7b-b580-ae1d9788df1e
+Order 3c30d755-8d5a-4e7b-b580-ae1d9788df1e | PLACED | Subtotal INR 206000.00 | Shipping INR 0 | Discount INR 0 | Total INR 206000.00
+Gift card applied: INR 2000 | Payment due: INR 204000.00
+Shipping to: bhagyalakshmipeta, tadepalligudem, AndhraPradesh, 534102
+P202 | Samsung AC | Qty: 3 | Unit: INR 40000.00
+P201 | LG AC WITH 5 STAR | Qty: 2 | Unit: INR 43000
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 4
+Order ID: 3c30d755-8d5a-4e7b-b580-ae1d9788df1e
+Tracking is not available until the order is dispatched.
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 6
+Order ID: 3c30d755-8d5a-4e7b-b580-ae1d9788df1e
+Only delivered orders can be returned
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 2
+3c30d755-8d5a-4e7b-b580-ae1d9788df1e | PLACED | INR 206000.00 | 2026-10-26T12:58:57.358551100
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 0
+
+KartCity Store
+1. Customer Menu
+2. Product Menu
+3. Cart Menu
+4. Order Menu
+5. Admin Menu
+0. Exit
+Choose an option: 5
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 7
+3c30d755-8d5a-4e7b-b580-ae1d9788df1e | Customer: 7b944fb0-0326-459c-b252-58daf258967f | PLACED | INR 206000.00
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 8
+Order ID: 3c30d755-8d5a-4e7b-b580-ae1d9788df1e
+Allowed statuses: [PLACED, DISPATCHED, IN_TRANSIT, DELIVERED, RETURN_REQUESTED, RETURNED, CANCELLED]
+Next status:  DISPATCHED
+Assign courier and tracking information before dispatch
+
+Admin Menu
+1. Add product
+2. View all products
+3. Search products
+4. Update product
+5. Delete product
+6. View customers
+7. View all orders
+8. Update order status
+9. Assign courier/tracking
+10. Create gift card
+11. Create coupon
+12. View subscriptions
+13. Log out admin
+0. Return
+Choose an option: 0
+
+KartCity Store
+1. Customer Menu
+2. Product Menu
+3. Cart Menu
+4. Order Menu
+5. Admin Menu
+0. Exit
+Choose an option: 4
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option: 2
+3c30d755-8d5a-4e7b-b580-ae1d9788df1e | PLACED | INR 206000.00 | 2026-10-26T12:58:57.358551100
+
+Order Menu
+1. Place an order
+2. View my orders
+3. View order details
+4. Track an order
+5. Cancel a placed order
+6. Request a return
+0. Return
+Choose an option:

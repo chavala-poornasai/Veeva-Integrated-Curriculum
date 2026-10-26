@@ -1,0 +1,20 @@
+E-commerce product module
+
+Build a simple realistic e-commerce product module by using core java concepts and OOP principles.
+
+To build the system the following are the requirements
+
+1. Represent customers with their personal information. This includes Name, Email, Address, Phone Number. While representing customer personal information follow encapsulation, abstraction, and data hiding. So that no private data is accessed     publicly.
+2. The system should able to create a pool of customers data (Database). We need to perform addition of customers, deletion of customers, manipulation of customer data, and retrieval of customers based on different queries like if a customer name is given then the corresponding customer record should be return, if a city name is given corresponding list customers should be return, if a phone number or email is given corresponding customer records should be return.
+3. Manage a catalog of products. Here manage means we have to create a lit of products, where at any time there is a possibility of adding new products, deleting products, manipulation of products data, and whenever customers exploring products in e-commerce platform it should provide following query and retrieval. 1. When a product ID is given return the corresponding product details. 2. When a product name is given return the list of products represented by that name. 3. When a product name and price is given return the list of products matching those details. 4. When a product name and range of price is given return the list of products with in that range. 5. when a product name and company name is given return the list of products produced by that company. 6. When a product name and company name and price is given return the list of products represented by these details.
+4. The customer should able to register and login with e-commerce platform whenever the customer needs to explore the products and order the products.
+5. Handle the orders created by customers it means whenever customer explores products they should be added to bascket. And once customer confirms an order should be created and stored in database. Now on-wards the order status can be updated at different intervals by the admin based on the activity like order just created and received, order dispatched, order with courier agent and in transit, order delivered to the customer, order returned by customer and received.
+6. Whenever order is dispatched and it is with courier agent then customer should able to see the tracking details, the payment process can be different types like UPI, debit card, credit card, or COD.
+
+While writing code use OOP principles like encapsulation, abstraction, inheritance, poly-morphism to provide interaction between objects.
+When we create an order and we generate order amount and we generate order total, there it is combination of shipping cost and order amount.
+
+Once this system is simulated try adding gift card payment option.
+
+If possible provide an option for customers to have subscription with e-commerce platform, the subscription can be monthly, quarterly, half-yearly, yearly. During subscription there is no shipping cost for customers.
+Also try if a customer has multiple orders having exceeding threshold value, provide discount coupons.
