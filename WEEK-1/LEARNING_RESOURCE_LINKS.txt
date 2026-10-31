@@ -29,5 +29,7 @@ Design Patterns in java - https://youtu.be/tDxnyop48mY?si=inlaiiLAJmI2KGMt
 
 UML classes - https://youtu.be/WnMQ8HlmeXc?si=D1d4d4AZuonAzLZC
  
-UML Representation - draw.io
+UML Representation - draw.io 
+
+XRAY -  https://www.youtube.com/watch?v=b19ANqeu30o&list=PLL34mf651faNUgGS8Uj4XC-GJFcjD2Fyr
 
