@@ -1,0 +1,271 @@
+Microsoft Windows [Version 10.0.26300.9711]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\POORNA SAI\Desktop\Veeva systems\WEEK-2\CASE STUDY ON FILE HANDLING-2\StudentManagement_1\src\main\java>javac StudentManagement.java
+
+C:\Users\POORNA SAI\Desktop\Veeva systems\WEEK-2\CASE STUDY ON FILE HANDLING-2\StudentManagement_1\src\main\java>java StudentManagement
+
+===== STUDENT MANAGEMENT SYSTEM =====
+1. Add Record
+2. Read All Records
+3. Read Record by Roll No
+4. Read Record by Name
+5. Delete Record by Roll No
+6. Update Record by Roll No
+7. Exit
+Enter your choice: 2
+
+--- ALL STUDENT RECORDS ---
+
+-----------------------------
+Roll No : 101
+Name    : Rahul
+Age     : 21
+M1      : 85
+M2      : 90
+M3      : 78
+M4      : 88
+M5      : 92
+Grade   : A
+-----------------------------
+
+-----------------------------
+Roll No : 102
+Name    : Arjun
+Age     : 20
+M1      : 75
+M2      : 80
+M3      : 82
+M4      : 79
+M5      : 85
+Grade   : B
+-----------------------------
+
+-----------------------------
+Roll No : 104
+Name    : pavan
+Age     : 23
+M1      : 90
+M2      : 90
+M3      : 90
+M4      : 90
+M5      : 90
+Grade   : A+
+-----------------------------
+
+-----------------------------
+Roll No : 105
+Name    : Surya
+Age     : 20
+M1      : 88
+M2      : 86
+M3      : 91
+M4      : 89
+M5      : 93
+Grade   : A
+-----------------------------
+
+-----------------------------
+Roll No : 106
+Name    : Charan
+Age     : 21
+M1      : 78
+M2      : 82
+M3      : 80
+M4      : 85
+M5      : 79
+Grade   : B
+-----------------------------
+
+-----------------------------
+Roll No : 107
+Name    : Manoj
+Age     : 22
+M1      : 95
+M2      : 96
+M3      : 94
+M4      : 92
+M5      : 98
+Grade   : A+
+-----------------------------
+
+-----------------------------
+Roll No : 108
+Name    : Teja
+Age     : 20
+M1      : 60
+M2      : 65
+M3      : 70
+M4      : 68
+M5      : 72
+Grade   : C
+-----------------------------
+
+-----------------------------
+Roll No : 109
+Name    : Varun
+Age     : 21
+M1      : 83
+M2      : 87
+M3      : 85
+M4      : 90
+M5      : 88
+Grade   : A
+-----------------------------
+
+-----------------------------
+Roll No : 110
+Name    : Ajay
+Age     : 22
+M1      : 72
+M2      : 75
+M3      : 78
+M4      : 74
+M5      : 80
+Grade   : B
+-----------------------------
+
+-----------------------------
+Roll No : 111
+Name    : poorna
+Age     : 23
+M1      : 100
+M2      : 100
+M3      : 100
+M4      : 100
+M5      : 100
+Grade   : s
+-----------------------------
+
+===== STUDENT MANAGEMENT SYSTEM =====
+1. Add Record
+2. Read All Records
+3. Read Record by Roll No
+4. Read Record by Name
+5. Delete Record by Roll No
+6. Update Record by Roll No
+7. Exit
+Enter your choice: 1
+
+--- ADD STUDENT ---
+Enter Roll No: 112
+Enter Name: sai
+Enter Age: 21
+Enter M1: 78
+Enter M2: 67
+Enter M3: 89
+Enter M4: 98
+Enter M5: 87
+Enter Grade: B
+Record added successfully!
+
+===== STUDENT MANAGEMENT SYSTEM =====
+1. Add Record
+2. Read All Records
+3. Read Record by Roll No
+4. Read Record by Name
+5. Delete Record by Roll No
+6. Update Record by Roll No
+7. Exit
+Enter your choice: 3
+
+Enter Roll No: 112
+Record found!
+
+-----------------------------
+Roll No : 112
+Name    : sai
+Age     : 21
+M1      : 78
+M2      : 67
+M3      : 89
+M4      : 98
+M5      : 87
+Grade   : B
+-----------------------------
+
+===== STUDENT MANAGEMENT SYSTEM =====
+1. Add Record
+2. Read All Records
+3. Read Record by Roll No
+4. Read Record by Name
+5. Delete Record by Roll No
+6. Update Record by Roll No
+7. Exit
+Enter your choice: 4
+
+Enter Student Name: sai
+
+-----------------------------
+Roll No : 112
+Name    : sai
+Age     : 21
+M1      : 78
+M2      : 67
+M3      : 89
+M4      : 98
+M5      : 87
+Grade   : B
+-----------------------------
+
+===== STUDENT MANAGEMENT SYSTEM =====
+1. Add Record
+2. Read All Records
+3. Read Record by Roll No
+4. Read Record by Name
+5. Delete Record by Roll No
+6. Update Record by Roll No
+7. Exit
+Enter your choice: 5
+
+Enter Roll No to delete: 112
+Record deleted successfully!
+
+===== STUDENT MANAGEMENT SYSTEM =====
+1. Add Record
+2. Read All Records
+3. Read Record by Roll No
+4. Read Record by Name
+5. Delete Record by Roll No
+6. Update Record by Roll No
+7. Exit
+Enter your choice: 6
+
+Enter Roll No to update: 110
+Existing Record:
+
+-----------------------------
+Roll No : 110
+Name    : Ajay
+Age     : 22
+M1      : 72
+M2      : 75
+M3      : 78
+M4      : 74
+M5      : 80
+Grade   : B
+-----------------------------
+Enter New Name:
+Enter valid name without commas: ajay
+Enter New Age:
+Enter a valid integer: 113
+Enter New M1: 87
+Enter New M2: 87
+Enter New M3: 98
+Enter New M4: 76
+Enter New M5: 67
+Enter New Grade: A
+Record updated successfully!
+
+===== STUDENT MANAGEMENT SYSTEM =====
+1. Add Record
+2. Read All Records
+3. Read Record by Roll No
+4. Read Record by Name
+5. Delete Record by Roll No
+6. Update Record by Roll No
+7. Exit
+Enter your choice: 7
+Thank you! Application closed.
+
+C:\Users\POORNA SAI\Desktop\Veeva systems\WEEK-2\CASE STUDY ON FILE HANDLING-2\StudentManagement_1\src\main\java>
