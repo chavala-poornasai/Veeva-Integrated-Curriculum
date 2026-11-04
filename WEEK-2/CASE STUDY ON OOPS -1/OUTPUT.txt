@@ -1,0 +1,145 @@
+Microsoft Windows [Version 10.0.26300.9711]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\POORNA SAI\Desktop\Veeva systems\WEEK-2\CASE STUDY ON OOPS -1\InventoryManagement\src\main\java>javac InventoryManagement.java
+
+C:\Users\POORNA SAI\Desktop\Veeva systems\WEEK-2\CASE STUDY ON OOPS -1\InventoryManagement\src\main\java>java InventoryManagement
+
+===== INVENTORY MANAGEMENT SYSTEM =====
+1. Add Item
+2. Remove Item
+3. Check Quantity
+4. Display Inventory
+5. Exit
+Enter your choice: 1
+Enter item name: chair
+Enter quantity: 5
+Item added successfully!
+
+===== INVENTORY MANAGEMENT SYSTEM =====
+1. Add Item
+2. Remove Item
+3. Check Quantity
+4. Display Inventory
+5. Exit
+Enter your choice: 4
+
+----- INVENTORY DETAILS -----
+chair : 5
+
+===== INVENTORY MANAGEMENT SYSTEM =====
+1. Add Item
+2. Remove Item
+3. Check Quantity
+4. Display Inventory
+5. Exit
+Enter your choice: 1
+Enter item name: stool
+Enter quantity: 3
+Item added successfully!
+
+===== INVENTORY MANAGEMENT SYSTEM =====
+1. Add Item
+2. Remove Item
+3. Check Quantity
+4. Display Inventory
+5. Exit
+Enter your choice: 1
+Enter item name: bike
+Enter quantity: 19
+Item added successfully!
+
+===== INVENTORY MANAGEMENT SYSTEM =====
+1. Add Item
+2. Remove Item
+3. Check Quantity
+4. Display Inventory
+5. Exit
+Enter your choice: 4
+
+----- INVENTORY DETAILS -----
+stool : 3
+chair : 5
+bike : 19
+
+===== INVENTORY MANAGEMENT SYSTEM =====
+1. Add Item
+2. Remove Item
+3. Check Quantity
+4. Display Inventory
+5. Exit
+Enter your choice: 2
+Enter item name: stool
+Enter quantity to remove: 1
+Item removed successfully!
+
+===== INVENTORY MANAGEMENT SYSTEM =====
+1. Add Item
+2. Remove Item
+3. Check Quantity
+4. Display Inventory
+5. Exit
+Enter your choice: 2
+Enter item name: car
+Enter quantity to remove: 2
+Item not found!
+
+===== INVENTORY MANAGEMENT SYSTEM =====
+1. Add Item
+2. Remove Item
+3. Check Quantity
+4. Display Inventory
+5. Exit
+Enter your choice: 2
+Enter item name: stool
+Enter quantity to remove: 5
+Insufficient quantity!
+
+===== INVENTORY MANAGEMENT SYSTEM =====
+1. Add Item
+2. Remove Item
+3. Check Quantity
+4. Display Inventory
+5. Exit
+Enter your choice: 3
+Enter item name: stook
+Item not found in inventory!
+
+===== INVENTORY MANAGEMENT SYSTEM =====
+1. Add Item
+2. Remove Item
+3. Check Quantity
+4. Display Inventory
+5. Exit
+Enter your choice: 3
+Enter item name: stool
+Available quantity of stool : 2
+
+===== INVENTORY MANAGEMENT SYSTEM =====
+1. Add Item
+2. Remove Item
+3. Check Quantity
+4. Display Inventory
+5. Exit
+Enter your choice:
+
+
+
+
+1
+Enter item name: nailpolish
+Enter quantity: qw
+Enter a valid quantity:
+wd
+Enter a valid quantity: helo
+Enter a valid quantity: 1`
+Enter a valid quantity: 21
+Item added successfully!
+
+===== INVENTORY MANAGEMENT SYSTEM =====
+1. Add Item
+2. Remove Item
+3. Check Quantity
+4. Display Inventory
+5. Exit
+Enter your choice:
