@@ -1,12 +1,12 @@
-import java.net.SocketOption;
 import java.util.*;
+import java.util.stream.Collectors;
 
-public class Stprac {
+public class String_prac1 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         ArrayList<ArrayList<String>> al = new ArrayList<>();
-        System.out.println("Enter the Character");
-        char c = sc.next().charAt(0);
+//        System.out.println("Enter the Character");
+//        char c = sc.next().charAt(0);
         al.add(new ArrayList<>(Arrays.asList("C","Cpp","Java","Python","jocata","C","Java")));
         al.add(new ArrayList<>(Arrays.asList("SQL","My-sql","Oracle","Postgress","SQL")));
         al.add(new ArrayList<>(Arrays.asList("Windows","Mac","Linux","unix","Mac")));
@@ -68,15 +68,11 @@ public class Stprac {
 //        System.out.println(res);
 
         //9. check whether any element starts with 's'
-        Optional<String> res=al.stream()
-                .flatMap(List::stream)
-                .filter(n->n.startsWith(c+""))
-                .findAny();
-        System.out.println(res.isPresent());
-
-
-
-
+//        Optional<String> res=al.stream()
+//                .flatMap(List::stream)
+//                .filter(n->n.startsWith(c+""))
+//                .findAny();
+//        System.out.println(res.isPresent());
     }
 
 }
