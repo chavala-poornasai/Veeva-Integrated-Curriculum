@@ -18,10 +18,12 @@ public class NavigationTest {
         Thread.sleep(2000);
 
         driver.navigate().forward();
+        
         Thread.sleep(2000);
 
         driver.navigate().refresh();
 
         driver.quit();
+        
     }
 }
