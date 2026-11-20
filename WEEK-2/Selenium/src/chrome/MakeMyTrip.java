@@ -5,6 +5,7 @@ import java.time.Duration;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.WebElement;
@@ -35,16 +36,16 @@ public class MakeMyTrip {
 	
 		WebElement element2 = waiting.until(ExpectedConditions.elementToBeClickable(By.id("toCity")));
 		element2.sendKeys("kolkata");
+			
 		
 		waiting.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//p[text()='Netaji Subhas Chandra Bose International Airport']"))).click();
 		
 		
 //		waiting.until(ExpectedConditions.visibilityOfElementLocated(By.id("toCity"))).sendKeys("kolkata");
 		
-		driver.findElement(By.xpath("//p[text() ='14']")).click();
-		WebElement returnTime = driver.findElement(By.xpath("//p[text()='Tap to add a return date for bigger discounts'"));
-		returnTime.click();
-		
+		driver.findElement(By.xpath("//p[text() ='19']")).click();
+		driver.quit();
+	
 //		Thread.sleep(3000);
 //		
 //		driver.quit();
